@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 📊 Sou formado em Economia pela UFRGS e atuo na área de dados a 2 anos, mais focado em ánalise de dados. Porém estou direcionando os meus estudos para a Engenharia de dados! Tenho Interesse especial em: **DataOps, FinOps, modelagem de dados, orquestração e cloud**
+- 📊 Sou formado em Economia pela UFRGS e atuo na área de dados a 2 anos, mais focado em análise de dados. Hoje estou direcionando os meus estudos para a Engenharia de dados! Tenho Interesse especial em: **DataOps, FinOps, modelagem de dados, orquestração e cloud**
 
 ---
 
